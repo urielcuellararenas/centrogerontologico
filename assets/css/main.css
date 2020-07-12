@@ -2560,8 +2560,10 @@ input, select, textarea {
 				}
 .inner img
 {
-	 margin-left: 300px;
+	  
 	 width: 450px; height: 400px;
+	 vertical-align: baseline;
+
 
 }
 
